@@ -477,7 +477,7 @@ body {
     width: 100%;
     max-width: 250px;
     height: 250px;
-    margin-left: 20px;
+    margin-left: 0px;
     object-fit: cover;
     border-radius: 50%; /* Makes your photo a clean circle */
     box-shadow: 0 8px 24px rgba(0, 0, 0, 0.2);
